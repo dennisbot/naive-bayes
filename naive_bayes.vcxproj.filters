@@ -19,10 +19,16 @@
     <None Include="car-prueba.data" />
     <None Include="play.data" />
     <None Include="play-prueba.data" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="resultado_car_prueba.png">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
